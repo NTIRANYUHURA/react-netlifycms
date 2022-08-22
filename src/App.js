@@ -37,6 +37,7 @@ function App() {
         <div className = "social">
             <FiFacebook/>
             <GrInstagram/>
+           
         </div>
         </Navbar.Collapse>
       </Container>
@@ -47,7 +48,9 @@ function App() {
                   <Route exact path="/tarif" element={<Tarif />} />
                   <Route exact path="/contact" element={<Contact />} />
               </Routes>
+              
           </BrowserRouter>
+          
       
       </div>
      
