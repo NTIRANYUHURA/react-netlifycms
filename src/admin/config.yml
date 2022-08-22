@@ -1,3 +1,0 @@
-backend:
-  name: https://github.com/NTIRANYUHURA/react-netlifycms
-  branch: main # Branch to update (optional; defaults to master)
