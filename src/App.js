@@ -19,7 +19,7 @@ function App() {
    <>
       <div className = "container-fluid">
 <BrowserRouter>
-    <Navbar bg="black" expand="lg">
+    <Navbar bg="light" expand="lg">
       <Container fluid>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
